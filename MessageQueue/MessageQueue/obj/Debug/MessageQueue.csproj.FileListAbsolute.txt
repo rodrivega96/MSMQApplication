@@ -1,0 +1,10 @@
+C:\Users\rvega\source\repos\MessageQueue\MessageQueue\bin\Debug\MessageQueue.exe.config
+C:\Users\rvega\source\repos\MessageQueue\MessageQueue\bin\Debug\MessageQueue.exe
+C:\Users\rvega\source\repos\MessageQueue\MessageQueue\bin\Debug\MessageQueue.pdb
+C:\Users\rvega\source\repos\MessageQueue\MessageQueue\obj\Debug\MessageQueue.csprojAssemblyReference.cache
+C:\Users\rvega\source\repos\MessageQueue\MessageQueue\obj\Debug\MessageQueue.Form1.resources
+C:\Users\rvega\source\repos\MessageQueue\MessageQueue\obj\Debug\MessageQueue.Properties.Resources.resources
+C:\Users\rvega\source\repos\MessageQueue\MessageQueue\obj\Debug\MessageQueue.csproj.GenerateResource.cache
+C:\Users\rvega\source\repos\MessageQueue\MessageQueue\obj\Debug\MessageQueue.csproj.CoreCompileInputs.cache
+C:\Users\rvega\source\repos\MessageQueue\MessageQueue\obj\Debug\MessageQueue.exe
+C:\Users\rvega\source\repos\MessageQueue\MessageQueue\obj\Debug\MessageQueue.pdb
